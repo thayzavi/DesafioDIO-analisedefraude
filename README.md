@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto tem como objetivo identificar padrões suspeitos em transações financeiras utilizando técnicas de análise de dados e Machine Learning.
+Este projeto tem como objetivo identificar padrões suspeitos em transações financeiras utilizando técnicas de análise de dados.
 
 A solução foi desenvolvida em Python no ambiente Google Colab, explorando dados de transações contendo informações como valor, localização, horário, categoria e canal de compra.
 
@@ -12,8 +12,6 @@ A solução foi desenvolvida em Python no ambiente Google Colab, explorando dado
 
 * Identificar transações fraudulentas
 * Analisar padrões de comportamento
-* Criar regras de detecção de fraude
-* Aplicar modelo de Machine Learning
 * Validar a solução com testes automatizados
 
 ---
@@ -61,12 +59,6 @@ Foi implementada uma função baseada em regras:
 * Localizações internacionais → suspeito
 
 ---
-
-## 🤖 Modelo de Machine Learning
-
-Modelo utilizado:
-
-* Logistic Regression
 
 ### 📌 Features utilizadas:
 
